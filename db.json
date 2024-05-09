@@ -37,6 +37,7 @@
       "model": "Pilatus PC24",
       "manufacturer": "Pilatus",
       "yom": 2023,
+      "registration": "EC-NRO",
       "images": [],
       "pax_capacity": 7,
       "range": 3000,
@@ -55,6 +56,7 @@
       "model": "Citation Latitude",
       "manufacturer": "Cessna",
       "yom": 2022,
+      "registration": "EC-NVS",
       "images": [],
       "pax_capacity": 8,
       "range": 5000,
@@ -73,6 +75,7 @@
       "model": "Citation XLS+",
       "manufacturer": "Cessna",
       "yom": 2021,
+      "registration": "F-HSFA",
       "images": [],
       "pax_capacity": 8,
       "range": 3300,
@@ -91,6 +94,7 @@
       "model": "Challenger 605",
       "manufacturer": "Bombardier",
       "yom": 2018,
+      "registration": "9H-OWI",
       "images": [],
       "pax_capacity": 10,
       "range": 7300,
@@ -103,6 +107,25 @@
         "telephone": true
       },
       "operatorId": 2
+    },
+    {
+      "id": 5,
+      "model": "Gulfstream G650",
+      "manufacturer": "Gulfstream",
+      "yom": 2015,
+      "registration": "EC-LPM",
+      "images": [],
+      "pax_capacity": 14,
+      "range": 13000,
+      "homebase": "EHAM",
+      "catering": "hot catering",
+      "description": "Use Vite to create a basic React app",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": true
+      },
+      "operatorId": 1
     }
   ]
 }
