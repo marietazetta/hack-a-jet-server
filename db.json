@@ -67,6 +67,24 @@
         "telephone": false
       },
       "operatorId": 1
+    },
+    {
+      "id": 3,
+      "model": "Citation XLS+",
+      "manufacturer": "Cessna",
+      "yom": 2021,
+      "images": [],
+      "pax_capacity": 8,
+      "range": 3300,
+      "homebase": "LFPB",
+      "catering": "cold catering",
+      "description": "whatever",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": false
+      },
+      "operatorId": 3
     }
   ]
 }
