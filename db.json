@@ -34,21 +34,21 @@
   "aircrafts": [
     {
       "id": 1,
-      "model": "Citation Latitude",
-      "manufacturer": "Cessna",
-      "yom": 2022,
+      "model": "Pilatus PC24",
+      "manufacturer": "Pilatus",
+      "yom": 2023,
       "images": [],
-      "pax_capacity": 8,
-      "range": 50000,
+      "pax_capacity": 7,
+      "range": 3000,
       "homebase": "LEMD",
-      "catering": "hot catering",
+      "catering": "drinks",
       "description": "Use Vite to create a basic React app",
       "services": {
-        "flight_attendant": true,
+        "flight_attendant": false,
         "wifi": true,
         "telephone": false
       },
-      "operatorId": 1
+      "operatorId": 3
     },
     {
       "id": 2,
@@ -57,8 +57,8 @@
       "yom": 2022,
       "images": [],
       "pax_capacity": 8,
-      "range": 50000,
-      "homebase": "LEMD",
+      "range": 5000,
+      "homebase": "LEBL",
       "catering": "hot catering",
       "description": "Use Vite to create a basic React app",
       "services": {
@@ -66,7 +66,7 @@
         "wifi": true,
         "telephone": false
       },
-      "operatorId": 3
+      "operatorId": 1
     }
   ]
 }
