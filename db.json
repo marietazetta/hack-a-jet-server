@@ -1,33 +1,72 @@
 {
-  "projects": [
+  "operators": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "company": "Horizon Line",
+      "logo": "",
+      "description": "Lorem",
+      "services": {
+        "lounge": true,
+        "transfer": true
+      }
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "company": "Azure Wings",
+      "logo": "",
+      "description": "Lorem",
+      "services": {
+        "lounge": true,
+        "transfer": true
+      }
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "company": "Private Skies",
+      "logo": "",
+      "description": "Lorem",
+      "services": {
+        "lounge": true,
+        "transfer": true
+      }
+    }
+  ],
+  "aircrafts": [
+    {
+      "id": 1,
+      "model": "Citation Latitude",
+      "manufacturer": "Cessna",
+      "yom": 2022,
+      "images": [],
+      "pax_capacity": 8,
+      "range": 50000,
+      "homebase": "LEMD",
+      "catering": "hot catering",
+      "description": "Use Vite to create a basic React app",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": false
+      },
+      "operatorId": 1
+    },
+    {
+      "id": 2,
+      "model": "Citation Latitude",
+      "manufacturer": "Cessna",
+      "yom": 2022,
+      "images": [],
+      "pax_capacity": 8,
+      "range": 50000,
+      "homebase": "LEMD",
+      "catering": "hot catering",
+      "description": "Use Vite to create a basic React app",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": false
+      },
+      "operatorId": 3
     }
   ]
 }
