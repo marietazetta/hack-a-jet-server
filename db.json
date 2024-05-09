@@ -85,6 +85,24 @@
         "telephone": false
       },
       "operatorId": 3
+    },
+    {
+      "id": 4,
+      "model": "Challenger 605",
+      "manufacturer": "Bombardier",
+      "yom": 2018,
+      "images": [],
+      "pax_capacity": 10,
+      "range": 7300,
+      "homebase": "EDDB",
+      "catering": "hot catering",
+      "description": "Use Vite to create a basic React app",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": true
+      },
+      "operatorId": 2
     }
   ]
 }
