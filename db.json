@@ -8,7 +8,8 @@
       "services": {
         "lounge": true,
         "transfer": true
-      }
+      },
+      "imgLounge": ""
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "services": {
         "lounge": true,
         "transfer": true
-      }
+      },
+      "imgLounge": ""
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "services": {
         "lounge": true,
         "transfer": true
-      }
+      },
+      "imgLounge": ""
     }
   ],
   "aircrafts": [
