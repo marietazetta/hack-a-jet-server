@@ -42,7 +42,11 @@
       "yom": 2023,
       "registration": "EC-NRO",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/njgPlrYxHeSfT1J.jpg",
-      "images": [],
+      "images": [
+        "https://www.gestair.com/user/themes/gestair/assets/flota/KfNLhI5BPDdbvsS.jpg",
+        "https://www.gestair.com/user/themes/gestair/assets/flota/yRVZsSeD5ukF6Mr.jpg",
+        "https://www.gestair.com/user/themes/gestair/assets/flota/JplvUf4gV7oDKMO.jpg"
+      ],
       "pax_capacity": 7,
       "range": 3000,
       "homebase": "LEMD",
