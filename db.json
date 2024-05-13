@@ -64,6 +64,16 @@
         "lounge": "",
         "transfer": ""
       }
+    },
+    {
+      "id": 7,
+      "company": "asvasbfs",
+      "logo": "basfb",
+      "description": "sss",
+      "services": {
+        "lounge": false,
+        "transfer": true
+      }
     }
   ],
   "aircrafts": [
