@@ -24,7 +24,7 @@ This is our private jet operators Alliance, Hack a Jet!
 
 | HTTP Verb| URL   |  Request Body             | Action
 | :-------- | :------- | :------------ | :------------- | 
-| POST | /aircrafts| JSON| Creates a new aircraft | 
+| POST | /new-aircraft| JSON| Creates a new aircraft | 
 | GET| /aircrafts| (empty)| Returns all the aircrafts| 
 | GET| /aircrafts/:aircraftId| (empty)| Returns the spcecified aircraft| 
 | PUT| /aircrafts/:aircraftId| JSON| Edits the spcecified aircraft| 
