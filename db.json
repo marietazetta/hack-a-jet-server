@@ -1,26 +1,23 @@
 {
   "operators": [
     {
-      "id": 1,
-      "company": "Horizon Line",
-      "logo": "",
-      "description": "Lorem",
+      "lounge": false,
+      "transfer": true,
       "services": {
-        "lounge": true,
+        "lounge": false,
         "transfer": true
       },
-      "imgLounge": ""
+      "id": 1
     },
     {
-      "id": 2,
-      "company": "Azure Wings",
-      "logo": "",
-      "description": "Lorem",
+      "lounge": false,
+      "transfer": false,
       "services": {
-        "lounge": true,
+        "lounge": false,
         "transfer": true
       },
-      "imgLounge": ""
+      "id": 2,
+      "description": "test"
     },
     {
       "id": 3,
@@ -64,53 +61,28 @@
         "lounge": "",
         "transfer": ""
       }
+    },
+    {
+      "id": 7,
+      "company": "asvasbfs",
+      "logo": "basfb",
+      "description": "sss",
+      "services": {
+        "lounge": false,
+        "transfer": true
+      }
+    },
+    {
+      "lounge": false,
+      "transfer": true,
+      "services": {
+        "lounge": false,
+        "transfer": true
+      },
+      "id": 8
     }
   ],
   "aircrafts": [
-    {
-      "id": 1,
-      "model": "Pilatus PC24",
-      "manufacturer": "Pilatus",
-      "yom": 2023,
-      "registration": "EC-NRO",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/njgPlrYxHeSfT1J.jpg",
-      "images": [
-        "https://www.gestair.com/user/themes/gestair/assets/flota/KfNLhI5BPDdbvsS.jpg",
-        "https://www.gestair.com/user/themes/gestair/assets/flota/yRVZsSeD5ukF6Mr.jpg",
-        "https://www.gestair.com/user/themes/gestair/assets/flota/JplvUf4gV7oDKMO.jpg"
-      ],
-      "pax_capacity": 7,
-      "range": 3000,
-      "homebase": "LEMD",
-      "catering": "drinks",
-      "description": "The Pilatus PC24 is a Swiss business jet known for its surprisingly spacious cabin and ability to land on short, unpaved runways, making it perfect for reaching remote destinations in style.",
-      "services": {
-        "flight_attendant": false,
-        "wifi": true,
-        "telephone": false
-      },
-      "operatorId": 3
-    },
-    {
-      "id": 2,
-      "model": "Citation Latitude",
-      "manufacturer": "Cessna",
-      "yom": 2022,
-      "registration": "EC-NVS",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/igURV7dwvQaMmLo.jpg",
-      "images": [],
-      "pax_capacity": 8,
-      "range": 5000,
-      "homebase": "LEBL",
-      "catering": "hot catering",
-      "description": " Cessna's Citation Latitude is a midsize jet favored for its roomy stand-up cabin, excellent range for long trips, and smooth operation at a competitive price.",
-      "services": {
-        "flight_attendant": true,
-        "wifi": true,
-        "telephone": false
-      },
-      "operatorId": 1
-    },
     {
       "id": 3,
       "model": "Citation XLS+",
@@ -172,86 +144,22 @@
       "operatorId": 1
     },
     {
-      "model": "Falcon 2000LX",
-      "manufacturer": "DASSAULT",
-      "registration": "EC-HYO",
-      "yom": "2017",
-      "pax_capacity": "10",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/e6wqdMljpU79BaR.jpg",
-      "range": "7400",
-      "homebase": "LEMD",
-      "catering": "",
-      "description": "This is a test",
-      "services": {
-        "flight_attendant": false,
-        "wifi": false,
-        "telephone": false
-      },
-      "id": 6
-    },
-    {
-      "model": "Falcon 2000LX",
-      "manufacturer": "DASSAULT",
-      "registration": "EC-HYO",
-      "yom": "2018",
+      "model": "Pilatus PC-24",
+      "manufacturer": "Pilatus",
+      "registration": "EC-NRO",
+      "yom": "2022",
       "pax_capacity": "7",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/e6wqdMljpU79BaR.jpg",
-      "range": "7500",
+      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/njgPlrYxHeSfT1J.jpg",
+      "range": "2700",
       "homebase": "LEMD",
-      "catering": "Cold Catering",
-      "description": "test2",
+      "catering": "Drinks",
+      "description": "The Pilatus PC24 is a Swiss business jet known for its surprisingly spacious cabin and ability to land on short, unpaved runways, making it perfect for reaching remote destinations in style.",
       "services": {
         "flight_attendant": false,
-        "wifi": false,
+        "wifi": true,
         "telephone": false
       },
       "id": 7
-    },
-    {
-      "model": "Falcon 2000LX",
-      "manufacturer": "DASSAULT",
-      "registration": "EC-HYO",
-      "yom": "2018",
-      "pax_capacity": "11",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/e6wqdMljpU79BaR.jpg",
-      "range": "8000",
-      "homebase": "LEMD",
-      "catering": "Hot Catering",
-      "description": "test3",
-      "services": "telephone",
-      "id": 8
-    },
-    {
-      "model": "Falcon 2000LX",
-      "manufacturer": "DASSAULT",
-      "registration": "EC-HYO",
-      "yom": "2000",
-      "pax_capacity": "7",
-      "main_image": "",
-      "range": "6000",
-      "homebase": "LEMD",
-      "catering": "Hot Catering",
-      "description": "test4",
-      "services": "wifi",
-      "id": 9
-    },
-    {
-      "model": "Falcon 2000LX",
-      "manufacturer": "DASSAULT",
-      "registration": "EC-HYO",
-      "yom": "1991",
-      "pax_capacity": "9",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/e6wqdMljpU79BaR.jpg",
-      "range": "6000",
-      "homebase": "LEMD",
-      "catering": "Hot Catering",
-      "description": "test5",
-      "services": {
-        "flight_attendant": true,
-        "wifi": false,
-        "telephone": true
-      },
-      "id": 10
     }
   ]
 }

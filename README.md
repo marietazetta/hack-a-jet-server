@@ -12,7 +12,7 @@ This is our private jet operators Alliance, Hack a Jet!
 
 | HTTP Verb| URL   |  Request Body             | Action
 | :-------- | :------- | :------------ | :------------- | 
-| POST | /operators| JSON | Creates a new operators
+| POST | /membership| JSON | Creates a new operators
 | GET| /operators| (empty)| Returns all the operators |
 | GET| /operators/:operatorId| (empty)| Returns the spcecified operator| 
 | PUT| /operators/:operatorId| JSON| Edits the spcecified operator| 
@@ -24,7 +24,7 @@ This is our private jet operators Alliance, Hack a Jet!
 
 | HTTP Verb| URL   |  Request Body             | Action
 | :-------- | :------- | :------------ | :------------- | 
-| POST | /aircrafts| JSON| Creates a new aircraft | 
+| POST | /new-aircraft| JSON| Creates a new aircraft | 
 | GET| /aircrafts| (empty)| Returns all the aircrafts| 
 | GET| /aircrafts/:aircraftId| (empty)| Returns the spcecified aircraft| 
 | PUT| /aircrafts/:aircraftId| JSON| Edits the spcecified aircraft| 
