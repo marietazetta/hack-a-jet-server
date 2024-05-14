@@ -1,173 +1,80 @@
 {
   "operators": [
     {
-<<<<<<< HEAD
-      "lounge": false,
-=======
-      "lounge": true,
->>>>>>> master
-      "transfer": true,
-      "services": {
-        "lounge": false,
-        "transfer": true
-      },
-<<<<<<< HEAD
-      "id": 1
-    },
-    {
-      "lounge": false,
-      "transfer": false,
-=======
-      "id": 1,
-      "company": "Horizon Line",
-      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715590579/Hack%20a%20Jet/wsbdnbvnwolgwu0htx7s.png",
-      "description": "a description"
-    },
-    {
-      "id": 2,
-      "company": "Azure Wings",
-      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715589615/Hack%20a%20Jet/ikymyb9dvuxgeuas20rm.png",
-      "description": "Lorem",
->>>>>>> master
-      "services": {
-        "lounge": false,
-        "transfer": true
-      },
-      "id": 2,
-      "description": "test"
-    },
-    {
-      "id": 3,
-      "company": "Private Skies",
-      "logo": "",
-      "description": "Lorem",
+      "id": 5,
+      "company": "Horizon Line ",
+      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715590579/Hack a Jet/wsbdnbvnwolgwu0htx7s.png ",
+      "description": "Horizon Line prioritizes luxury and personalized service. We offer a fleet of modern, spacious jets for comfortable travel to any destination. Our focus is on exceeding expectations for those discerning travelers who value privacy and efficiency.",
       "services": {
         "lounge": true,
         "transfer": true
-      },
-      "imgLounge": ""
-    },
-    {
-      "id": 4,
-      "company": "asvasbfs",
-      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715444228/Hack%20a%20Jet/nduyaaco927gg67bsky9.png",
-      "description": "asjgoasnfdv",
-      "services": {
-        "lounge": "",
-        "transfer": ""
-      },
-      "lounge": ""
-<<<<<<< HEAD
-    },
-    {
-      "id": 5,
-      "company": "jaosifhbsalkf",
-      "logo": "asdgvsa",
-      "description": "asvasbasfbasfba",
-      "services": {
-        "lounge": "",
-        "transfer": ""
-      },
-      "lounge": ""
+      }
     },
     {
       "id": 6,
-      "company": "jbkasdflbmadfb",
-      "logo": "",
-      "description": "",
+      "company": "Azure Wings",
+      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715589615/Hack a Jet/ikymyb9dvuxgeuas20rm.png",
+      "description": "Azure Wings takes you beyond first class. Soar through clear, azure skies on our private jets, designed for unmatched comfort and discretion.  We curate personalized travel experiences, ensuring every detail is flawless from takeoff to touchdown.  Let Azure Wings be your wings to freedom and unmatched luxury.",
       "services": {
-        "lounge": "",
-        "transfer": ""
+        "lounge": true,
+        "transfer": false
       }
     },
     {
       "id": 7,
-      "company": "asvasbfs",
-      "logo": "basfb",
-      "description": "sss",
+      "company": "Private Skies",
+      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715444228/Hack a Jet/nduyaaco927gg67bsky9.png ",
+      "description": "Private Skies elevates the private jet experience.  Unwind in our impeccably maintained fleet, designed for comfort and productivity.  Our dedicated team anticipates your needs, ensuring a seamless journey wherever your private sky awaits.  Fly private Skies – Where discretion meets unparalleled service.",
       "services": {
-        "lounge": false,
+        "lounge": true,
         "transfer": true
       }
-    },
-    {
-      "lounge": false,
-      "transfer": true,
-      "services": {
-        "lounge": false,
-        "transfer": true
-      },
-      "id": 8
-=======
->>>>>>> master
     }
   ],
   "aircrafts": [
     {
-      "id": 3,
+      "model": "Citation Latitude",
+      "manufacturer": "Cessna",
+      "registration": "EC-NVS",
+      "yom": "2022",
+      "pax_capacity": "6",
+      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/igURV7dwvQaMmLo.jpg",
+      "range": "5000",
+      "homebase": "LEBL",
+      "catering": "Cold catering",
+      "description": "Cessna's Citation Latitude is a midsize jet favored for its roomy stand-up cabin, excellent range for long trips, and smooth operation at a competitive price.",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": false
+      },
+      "operatorId": 5,
+      "id": 8
+    },
+    {
       "model": "Citation XLS+",
       "manufacturer": "Cessna",
-      "yom": 2021,
       "registration": "F-HSFA",
+      "yom": "2021",
+      "pax_capacity": "8",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/fqYMrl2xpeaIP0K.jpg",
-      "images": [],
-      "pax_capacity": 8,
-      "range": 3300,
+      "range": "3300",
       "homebase": "LFPB",
-      "catering": "cold catering",
+      "catering": "Cold catering",
       "description": "Citation XLS+ is a business jet offering comfortable seating for up to 8 passengers and efficient travel for mid-range trips, reaching destinations over 2,500 nautical miles away.",
       "services": {
         "flight_attendant": true,
         "wifi": true,
         "telephone": false
       },
-      "operatorId": 3
-    },
-    {
-      "id": 4,
-      "model": "Challenger 605",
-      "manufacturer": "Bombardier",
-      "yom": 2018,
-      "registration": "9H-OWI",
-      "main_image": "https://l33jets.com/wp-content/uploads/2019/03/2011-Challenger-605.jpg",
-      "images": [],
-      "pax_capacity": 10,
-      "range": 7300,
-      "homebase": "EDDB",
-      "catering": "hot catering",
-      "description": "Bombardier's Challenger 605 boasts a transatlantic range and the widest cabin in its class, ideal for luxurious long-distance flights with ample space.",
-      "services": {
-        "flight_attendant": true,
-        "wifi": true,
-        "telephone": true
-      },
-      "operatorId": 2
-    },
-    {
-      "id": 5,
-      "model": "Gulfstream G650",
-      "manufacturer": "Gulfstream",
-      "yom": 2015,
-      "registration": "EC-LPM",
-      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/h7Tp6q9dU0rXu4A.jpg",
-      "images": [],
-      "pax_capacity": 14,
-      "range": 13000,
-      "homebase": "EHAM",
-      "catering": "hot catering",
-      "description": "G650, the undisputed king of long-distance jets, offering globe-spanning range and unparalleled comfort for the ultimate private travel experience.",
-      "services": {
-        "flight_attendant": true,
-        "wifi": true,
-        "telephone": true
-      },
-      "operatorId": 1
+      "operatorId": 6,
+      "id": 9
     },
     {
       "model": "Pilatus PC-24",
-      "manufacturer": "Pilatus",
+      "manufacturer": "PILATUS",
       "registration": "EC-NRO",
-      "yom": "2022",
+      "yom": "2021",
       "pax_capacity": "7",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/njgPlrYxHeSfT1J.jpg",
       "range": "2700",
@@ -179,7 +86,46 @@
         "wifi": true,
         "telephone": false
       },
-      "id": 7
+      "operatorId": 7,
+      "id": 10
+    },
+    {
+      "model": "Gulfstream G650",
+      "manufacturer": "Gulfstream",
+      "registration": "EC-LPM",
+      "yom": "2015",
+      "pax_capacity": "14",
+      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/h7Tp6q9dU0rXu4A.jpg",
+      "range": "13000",
+      "homebase": "EHAM",
+      "catering": "Hot catering",
+      "description": "G650, the undisputed king of long-distance jets, offering globe-spanning range and unparalleled comfort for the ultimate private travel experience.",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": true
+      },
+      "operatorId": 5,
+      "id": 11
+    },
+    {
+      "model": "Challenger 605",
+      "manufacturer": "Bombardier",
+      "registration": " 9H-OWI",
+      "yom": "2018",
+      "pax_capacity": "10",
+      "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/UcEH0NFdxf9Y2yh.jpg",
+      "range": "7300",
+      "homebase": "EDDB",
+      "catering": "",
+      "description": "Bombardier's Challenger 605 boasts a transatlantic range and the widest cabin in its class, ideal for luxurious long-distance flights with ample space.",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": false
+      },
+      "operatorId": 6,
+      "id": 12
     }
   ]
 }
