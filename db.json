@@ -1,20 +1,21 @@
 {
   "operators": [
     {
-      "id": 1,
-      "company": "Horizon Line",
-      "logo": "",
-      "description": "Lorem",
+      "lounge": true,
+      "transfer": true,
       "services": {
         "lounge": true,
         "transfer": true
       },
-      "imgLounge": ""
+      "id": 1,
+      "company": "Horizon Line",
+      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715590579/Hack%20a%20Jet/wsbdnbvnwolgwu0htx7s.png",
+      "description": "a description"
     },
     {
       "id": 2,
       "company": "Azure Wings",
-      "logo": "",
+      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715589615/Hack%20a%20Jet/ikymyb9dvuxgeuas20rm.png",
       "description": "Lorem",
       "services": {
         "lounge": true,
@@ -36,44 +37,13 @@
     {
       "id": 4,
       "company": "asvasbfs",
-      "logo": "basfb",
+      "logo": "https://res.cloudinary.com/du8mlfcf9/image/upload/v1715444228/Hack%20a%20Jet/nduyaaco927gg67bsky9.png",
       "description": "asjgoasnfdv",
       "services": {
         "lounge": "",
         "transfer": ""
       },
       "lounge": ""
-    },
-    {
-      "id": 5,
-      "company": "jaosifhbsalkf",
-      "logo": "asdgvsa",
-      "description": "asvasbasfbasfba",
-      "services": {
-        "lounge": "",
-        "transfer": ""
-      },
-      "lounge": ""
-    },
-    {
-      "id": 6,
-      "company": "jbkasdflbmadfb",
-      "logo": "",
-      "description": "",
-      "services": {
-        "lounge": "",
-        "transfer": ""
-      }
-    },
-    {
-      "id": 7,
-      "company": "asvasbfs",
-      "logo": "basfb",
-      "description": "sss",
-      "services": {
-        "lounge": false,
-        "transfer": true
-      }
     }
   ],
   "aircrafts": [
