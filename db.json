@@ -39,6 +39,12 @@
       "yom": "2022",
       "pax_capacity": "6",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/igURV7dwvQaMmLo.jpg",
+      "images_url": [
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715763969/latitudeFront_rlmnyx.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715763963/latitudeCockpit_zogako.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715763962/latitudeinterior1_qulvik.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715763961/latitudeinterior2_ksiqrc.jpg"
+      ],
       "range": "5000",
       "homebase": "LEBL",
       "catering": "Cold catering",
@@ -58,6 +64,12 @@
       "yom": "2021",
       "pax_capacity": "8",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/fqYMrl2xpeaIP0K.jpg",
+      "images_url": [
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764246/citationxlsinterior2_sloqp4.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764246/citationxlsinterior3_wrsfu6.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764245/citationxlsinterior_wbmu3u.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764245/citationxlsinterior4_wmplux.jpg"
+      ],
       "range": "3300",
       "homebase": "LFPB",
       "catering": "Cold catering",
@@ -77,6 +89,12 @@
       "yom": "2021",
       "pax_capacity": "7",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/njgPlrYxHeSfT1J.jpg",
+      "images_url": [
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764389/pc24cockpit_l4mtyw.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764389/pc24interior_jrnuw3.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764385/pc24interior3_amcyvu.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764384/pc24interior2_v9g4i6.jpg"
+      ],
       "range": "2700",
       "homebase": "LEMD",
       "catering": "Drinks",
@@ -96,6 +114,12 @@
       "yom": "2015",
       "pax_capacity": "14",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/h7Tp6q9dU0rXu4A.jpg",
+      "images_url": [
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764872/g650interior_iue2o1.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764872/g650exterior_chacvg.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764873/g650interior2_zy0p3o.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764872/g650interior3_fobona.jpg"
+      ],
       "range": "13000",
       "homebase": "EHAM",
       "catering": "Hot catering",
@@ -115,6 +139,12 @@
       "yom": "2018",
       "pax_capacity": "10",
       "main_image": "https://www.gestair.com/user/themes/gestair/assets/flota/UcEH0NFdxf9Y2yh.jpg",
+      "images_url": [
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764993/challenger605interior_n8lrt4.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764996/challenger605interior2_jdqfdk.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764994/challenger605interior3_isn3h9.jpg",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715764995/challenger605cockpit_pkswng.jpg"
+      ],
       "range": "7300",
       "homebase": "EDDB",
       "catering": "",
