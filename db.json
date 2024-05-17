@@ -29,16 +29,6 @@
         "lounge": true,
         "transfer": true
       }
-    },
-    {
-      "id": 8,
-      "company": "hnoijfbsdb",
-      "logo": "asbf",
-      "description": "badfbdafb",
-      "services": {
-        "lounge": true,
-        "transfer": true
-      }
     }
   ],
   "aircrafts": [
@@ -166,28 +156,6 @@
       },
       "operatorId": 6,
       "id": 12
-    },
-    {
-      "model": "",
-      "manufacturer": "",
-      "registration": "",
-      "yom": "1991",
-      "pax_capacity": "3",
-      "main_image": "",
-      "images_url": [
-        ""
-      ],
-      "range": 0,
-      "homebase": "adfbadb",
-      "catering": "",
-      "description": "",
-      "services": {
-        "flight_attendant": false,
-        "wifi": true,
-        "telephone": false
-      },
-      "operatorId": 8,
-      "id": 13
     }
   ]
 }
