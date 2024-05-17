@@ -156,6 +156,30 @@
       },
       "operatorId": 6,
       "id": 12
+    },
+    {
+      "model": "AIRBUS ACJ330",
+      "manufacturer": "AIRBUS",
+      "registration": "EC-PRA",
+      "yom": "1991",
+      "pax_capacity": "20",
+      "main_image": "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715934178/Captura_de_pantalla_2024-05-17_a_las_10.21.44_yrp4so.png",
+      "images_url": [
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715934179/Captura_de_pantalla_2024-05-17_a_las_10.22.00_zqfoth.png",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715934175/Captura_de_pantalla_2024-05-17_a_las_10.22.29_qavqa7.png",
+        "https://res.cloudinary.com/dzncdwx7u/image/upload/v1715934179/Captura_de_pantalla_2024-05-17_a_las_10.22.17_iggv3a.png"
+      ],
+      "range": "17000",
+      "homebase": "LEAM",
+      "catering": "Hot catering",
+      "description": "The Airbus ACJ330 is a private jet palace. It whisks you non-stop around the world in a spacious. Fly for over 21 hours and enjoy work, socialize, or simply relax knowing you'll arrive refreshed at your global destination.",
+      "services": {
+        "flight_attendant": true,
+        "wifi": true,
+        "telephone": true
+      },
+      "operatorId": 7,
+      "id": 13
     }
   ]
 }
